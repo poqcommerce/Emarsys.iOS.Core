@@ -1,7 +1,5 @@
 .DS_Store
-.idea/
-Core.xcodeproj/xcuserdata/
-Core.xcworkspace/
+xcuserdata/
 Pods/
-/Podfile.lock
-test_output
+Carthage/Checkouts
+Carthage/Build
